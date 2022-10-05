@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarveyJ8
-- 👀 I’m interested in front end development.
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on any projects that allow me to grow my skills in the front end
+- 👀 I’m interested in PHP development.
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on any projects that allow me to grow my skills in PHP
 - 📫 How to reach me (harveyjoshua8@gmail.com)
 
 <!---
